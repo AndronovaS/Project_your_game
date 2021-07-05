@@ -18,11 +18,14 @@ Yarn start
 ## Начать игру
 
 Для того, что бы начать игру, на главной странице нужно выбрать аватар и ввести свое имя.
+![Главная](https://github.com/AndronovaS/Project_your_game/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-07-05%20%D0%B2%2015.26.04.png)
 
 ## Игра
 
 В таблице с вопросами надо выбрать тему и сложность вопроса.
 Уже отыгранные вопросы исчезают из таблица, повторно их выбрать нельзя.
+![Таблица](https://github.com/AndronovaS/Project_your_game/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-07-05%20%D0%B2%2015.26.54.png)
+![Вопросы](https://github.com/AndronovaS/Project_your_game/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-07-05%20%D0%B2%2015.27.39.png)
 
 ## Использованные технологии
 
